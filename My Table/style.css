@@ -1,0 +1,29 @@
+table, td, th {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+  margin: 0;
+}
+
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+B {
+  color:#212F3C;
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p, a { text-transform: none;}
+
+p { font:size 12px; }
+
+a { font:size 10px; }
+
+th { text-transform: uppercase; }
