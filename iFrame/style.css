@@ -1,0 +1,37 @@
+p, b{
+   color: rgb(114, 105, 105);
+   padding: 20px;
+   text-align: center;
+ }
+ 
+ .box {
+   width: 1000px;
+   height: 600px;
+   border: 0px solid gray;
+ background: #b8c6ee;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #c2d1fa, #8cc9d3);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right,#c2d1fa, #8cc9d3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ box-shadow: 7px 7px 5px -1px rgba(0,0,0,0.75);
+ 
+ }
+ 
+ div.box {
+  text-align: center;
+}
+
+B {
+  color:#212F3C;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a {
+  color:#ebc1ce;
+  font-size: 18px;
+  text-align: center;
+  background-color: #575757;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  border-radius: 15px;
+}
